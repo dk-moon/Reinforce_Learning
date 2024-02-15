@@ -1,2 +1,2 @@
 # Reinforcement_Learning
-Study Reinforce Learning Algorithm
+Study Reinforcement Learning Algorithm
